@@ -6,4 +6,4 @@ Ideas and Tasks to do.
 * Finish R 4 Data Science exercises
 * Read Tidy Text Mining. Create an example from each chapter.
 * https://pgexercises.com/questions/basic/
-
+* NAND2TETRIS
