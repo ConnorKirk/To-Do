@@ -7,3 +7,4 @@ Ideas and Tasks to do.
 * Read Tidy Text Mining. Create an example from each chapter.
 * https://pgexercises.com/questions/basic/
 * NAND2TETRIS
+* Spotify API/Shiny Display of songs?
