@@ -8,3 +8,4 @@ Ideas and Tasks to do.
 * https://pgexercises.com/questions/basic/
 * NAND2TETRIS
 * Spotify API/Shiny Display of songs?
+* Create a Squash player dataset from PSA website
