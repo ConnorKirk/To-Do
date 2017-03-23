@@ -11,5 +11,5 @@ Ideas and Tasks to do.
 * Read Structure and Interpretation of Computer Programs
 
 # Completed
-*  - Finish R 4 Data Science exercises -
-*  - Finish MyCourts-Booker -
+*  ~~Finish R 4 Data Science exercises~~
+*  ~~Finish MyCourts-Booker~~
