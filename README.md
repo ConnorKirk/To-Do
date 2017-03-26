@@ -9,6 +9,7 @@ Ideas and Tasks to do.
 * Spotify API/Shiny Display of songs?
 * Create a Squash player dataset from PSA website
 * Read Structure and Interpretation of Computer Programs
+  * On Ex1.1
 
 # Completed
 *  ~~Finish R 4 Data Science exercises~~
